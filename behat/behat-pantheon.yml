@@ -18,9 +18,9 @@ default:
       goutte: ~
       selenium2: ~
       files_path: './data-files'
-      base_url: http://dev-example-drupal7-circle-composer.pantheon.io/
+      base_url: http://dev-fusionx1.pantheonsite.io/
     Drupal\DrupalExtension:
       blackbox: ~
       api_driver: 'drush'
       drush:
-        alias: '@pantheon-ci.example-drupal7-circle-composer.dev'
+        alias: '@pantheon-ci.fusionx1.dev'
