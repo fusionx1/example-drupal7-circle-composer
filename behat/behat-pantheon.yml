@@ -23,4 +23,4 @@ default:
       blackbox: ~
       api_driver: 'drush'
       drush:
-        alias: '@pantheon-ci.fusionx1.dev'
+        alias: '@fusionx1.dev'
