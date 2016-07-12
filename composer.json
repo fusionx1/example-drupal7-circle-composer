@@ -74,7 +74,7 @@
     ],
     "require": {
         "composer/installers": "^1.0.21",
-        "katzgrau/klogger": "1.2.0",
+        "katzgrau/klogger": "1.2.*@stable",
         "derhasi/composer-preserve-paths": "0.1.*",
         "cweagans/composer-patches": "~1.0",
         "pantheon-systems/drops-7": "7.*",
