@@ -1,6 +1,6 @@
 ## About
 
-This project template will create a Drupal 7 site that is managed by Composer and is tested on every commit on Circle CI using Behat, with the Drupal site either running on Pantheon or the Circle server.  Only a few quick steps are required to set up either an entirely new site, or convert an existing site.
+This project template will create a Drupal 7 site that is managed by Composer and is tested on every commit on Circle CI using Behat, with the Drupal site either running on Pantheon or the Circle server.  Only a few quick steps are required to set up either an entirely new site, or convert an existing site..
 
 Adding new tests to your project will also be very easy; just follow the example of the included tests.
 
