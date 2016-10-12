@@ -81,7 +81,8 @@
         "drupal/composer_vendor": "7.1.*",
         "drupal/admin_menu": "7.3.*",
         "drupal/devel": "7.1.*",
-        "drupal/responsive_bartik": "7.1.*"
+        "drupal/responsive_bartik": "7.1.*",
+        "drupal/pathauto": "7.1.3",
     },
     "require-dev": {
         "drush-ops/behat-drush-endpoint": "*",
