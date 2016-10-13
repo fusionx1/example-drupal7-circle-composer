@@ -13,4 +13,5 @@ cd "$DRUPAL_ROOT"
 #
 # Install the configuration settings form wk_config
 #
-
+drush "$SITE_IDENTIFIER" en -y pathauto
+ 
