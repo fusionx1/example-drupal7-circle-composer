@@ -13,4 +13,4 @@ cd "$DRUPAL_ROOT"
 #
 # Install the configuration settings form wk_config
 #
-drush en devel -y
+
