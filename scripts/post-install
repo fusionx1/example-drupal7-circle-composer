@@ -9,7 +9,7 @@ PROJECT_BASE_DIR="`cd -P -- "$SELF_DIRNAME/.." && pwd -P`"
 DRUPAL_ROOT="$PROJECT_BASE_DIR/drupal"
 
 cd "$DRUPAL_ROOT"
-drush "$SITE_IDENTIFIER" devel -y
+drush "$SITE_IDENTIFIER" token -y
 #
 # Install the configuration settings form wk_config
 #
