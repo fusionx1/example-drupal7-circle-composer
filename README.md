@@ -108,6 +108,6 @@ The [post-install](scripts/post-install) script will be executed after the Drupa
 
 The folder 'scripts' contain some starting scripts that you may use to customize the environment you need for your tests. See the [README](behat/README.md) file in the Behat directory for details on where to put your tests, and how to configure behat-pantheon.yml for the Pantheon tests.
 
-test
+test2
 
 
